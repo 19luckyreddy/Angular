@@ -1,0 +1,9 @@
+table {
+    background-color: azure;
+}
+
+table:hover {
+    background-color: rgb(189, 209, 209);
+    border: 5px solid black;
+    border-radius: 20px;
+}
